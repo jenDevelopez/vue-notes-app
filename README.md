@@ -70,13 +70,17 @@ cd [nombre-del-repositorio]
 ### 2. Instalar dependencias:
 
 ```bash
-npm install | yarn install
+npm install 
+#o
+yarn install
 ```
 
 ### 3. Ejecutar el proyecto en modo desarrollo:
 
 ```bash
-npm run dev | yarn dev
+npm run dev 
+#o
+yarn dev
 ```
 
 La aplicación estará disponible en http://localhost:5173/ (o el puerto que se muestre en la consola).
